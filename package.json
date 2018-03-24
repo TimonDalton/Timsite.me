@@ -1,0 +1,21 @@
+{
+  "name": "timsite",
+  "version": "1.0.0",
+  "description": "timsite.me page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Timon D",
+  "license": "ISC",
+  "dependencies": {
+    "cli-engine": "^4.7.1",
+    "cli-engine-command": "^9.0.7",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "heroku": "^0.2.0",
+    "heroku-cli": "^6.15.31",
+    "npm-install-peers": "^1.2.1"
+  }
+}
