@@ -1,0 +1,29 @@
+body{
+	background:#090909;
+}
+
+div:first-of-type{
+}
+
+.middle{
+	padding:0 25%;
+}
+
+div .heading{
+	font-size:50px;
+	color:#09FF09;
+}
+
+h3 .heading{
+	font-size:20px;
+}
+
+span .heading{
+	font-size :30px;
+}
+
+.content{
+
+	font-size:30px;
+	color:#ff6a00;
+}
