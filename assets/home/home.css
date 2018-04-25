@@ -1,29 +1,33 @@
 body{
-	background:#090909;
+	background:
+	#1e3a52;
+}
+div.heading{
+	border:hidden;
+
+
+	background:#14ab00;
+	width: 300px;
+	padding:10%;
+	margin:auto;
+
+
 }
 
-div:first-of-type{
+div h1{
+	color:#FFF;
+	font-size:100px;
 }
 
-.middle{
-	padding:0 25%;
+div.c1{
+	margin-top:5%;
+	width:100%;
+	height:500px;
+	background:#ff5d00;
+
 }
 
-div .heading{
-	font-size:50px;
-	color:#09FF09;
-}
+div.c1 div{
+	margin:auto;
 
-h3 .heading{
-	font-size:20px;
-}
-
-span .heading{
-	font-size :30px;
-}
-
-.content{
-
-	font-size:30px;
-	color:#ff6a00;
 }
